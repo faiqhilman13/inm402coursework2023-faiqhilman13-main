@@ -136,6 +136,6 @@ Create separate parameterised functions, each in their own code block, that do t
 - A function that adds 2023 to all the items in a list of numbers.
 - A function that creates a new list that comprises the numbers in a given list multiplied by 5.
 - A function that finds the sum of the squares of all numbers in a list (_Hint: You may find the function [List.sum](https://package.elm-lang.org/packages/elm/core/latest/List#sum) helpful here_).
-- A function that given an integer, creates a list of multiples of 5 (5, 10, 15 etc.) from 5 to that integer.
+- A function that given an integer, creates a list of multiples of 5 (5, 10, 15 etc.) from 5 to that integer. weea
 
 {|task)}

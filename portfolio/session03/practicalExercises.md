@@ -127,7 +127,7 @@ As the anomalies range between a +1 and -0.5, I added a diverging colour scheme 
 
 One way of developing your design skills is deliberately to constrain your design choices and see if you can come up with creative solutions under those constraints. Using this idea of [constrained creativity](https://www.fastcompany.com/3067925/how-constraints-force-your-brain-to-be-more-creative), try to come up with a design for showing gender and name frequency over time (as shown in [Baby Name Voyager](https://web.archive.org/web/20211015175350/https://www.babynamewizard.com/namevoyager-expert#prefix=&sw=both&exact=false) at the start of this lecture) that does not use colour (i.e. use only black or white in your design). For inspiration you may wish to have a look at the finalists in this [MonoCarto competition](https://somethingaboutmaps.wordpress.com/monocarto-2019-winners/).
 
-Sketch out your design and include a photo of it in your `practicalExercises.md` portfolio document. As a reminder, you can include an image in a litvis document like this:
+Sketch out your design and include a photo of it in your `practicalExercises.md` portfolio document. As a reminder, you can include an image in a litvis document like this: rawwr
 
 ```markdown
 ![image caption](myImagefile.jpg)
